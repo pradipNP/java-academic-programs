@@ -1,0 +1,55 @@
+# Compiled Java files
+*.class
+
+# Java build files
+*.jar
+*.war
+*.ear
+
+# Build directories
+build/
+out/
+target/
+bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/.nb-gradle/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
